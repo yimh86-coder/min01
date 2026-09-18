@@ -1,0 +1,6 @@
+{
+  "name": "아이 성장 다이어리",
+  "description": "아이의 첫걸음마, 생일, 여행 등 사진 앨범과 발달 기록을 정리하고, 감성 BGM(악뮤, 윤종신)과 함께 성장 동영상을 제작하며 가족과 공유하는 공간입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
